@@ -1,0 +1,14 @@
+C:\Programacion\Cuatri4\Ruth\Practica7\bin\Debug\net7.0\Practica7.exe
+C:\Programacion\Cuatri4\Ruth\Practica7\bin\Debug\net7.0\Practica7.deps.json
+C:\Programacion\Cuatri4\Ruth\Practica7\bin\Debug\net7.0\Practica7.runtimeconfig.json
+C:\Programacion\Cuatri4\Ruth\Practica7\bin\Debug\net7.0\Practica7.dll
+C:\Programacion\Cuatri4\Ruth\Practica7\bin\Debug\net7.0\Practica7.pdb
+C:\Programacion\Cuatri4\Ruth\Practica7\obj\Debug\net7.0\Practica7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programacion\Cuatri4\Ruth\Practica7\obj\Debug\net7.0\Practica7.AssemblyInfoInputs.cache
+C:\Programacion\Cuatri4\Ruth\Practica7\obj\Debug\net7.0\Practica7.AssemblyInfo.cs
+C:\Programacion\Cuatri4\Ruth\Practica7\obj\Debug\net7.0\Practica7.csproj.CoreCompileInputs.cache
+C:\Programacion\Cuatri4\Ruth\Practica7\obj\Debug\net7.0\Practica7.dll
+C:\Programacion\Cuatri4\Ruth\Practica7\obj\Debug\net7.0\refint\Practica7.dll
+C:\Programacion\Cuatri4\Ruth\Practica7\obj\Debug\net7.0\Practica7.pdb
+C:\Programacion\Cuatri4\Ruth\Practica7\obj\Debug\net7.0\Practica7.genruntimeconfig.cache
+C:\Programacion\Cuatri4\Ruth\Practica7\obj\Debug\net7.0\ref\Practica7.dll
